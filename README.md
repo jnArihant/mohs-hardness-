@@ -1,1 +1,1 @@
-# mohs-hardness-
+[# mohs-hardness-](https://www.kaggle.com/code/rushilmisra/mohs-hardness)
